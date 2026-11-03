@@ -1,0 +1,33 @@
+{
+    "device_name": "RGB Лента",
+    "ip": "",
+    "device_id": "",
+    "local_key": "",
+    "protocol_version": "3.3",
+    "connection_mode": "local",
+    "cloud_client_id": "",
+    "cloud_secret": "",
+    "cloud_region": "eu",
+    "cloud_device_id": "",
+    "start_minimized": false,
+    "autostart": true,
+    "last_power": true,
+    "last_brightness": 100,
+    "last_color": [
+        255,
+        215,
+        215
+    ],
+    "last_mode": "colour",
+    "last_white_temp": 50,
+    "turn_on_on_pc_boot": true,
+    "boot_color": [
+        255,
+        215,
+        215
+    ],
+    "turn_off_on_pc_shutdown": true,
+    "idle_off_enabled": true,
+    "idle_off_minutes": 15,
+    "idle_wake_on_input": true
+}
